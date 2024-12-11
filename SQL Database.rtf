@@ -1,0 +1,129 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\partightenfactor0
+
+\f0\b\fs40 \cf0 \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\b0\fs26 \cf0 CREATE TABLE Users (\
+  user_id INT PRIMARY KEY,\
+  username VARCHAR(50) NOT NULL,\
+  email VARCHAR(120) NOT NULL,\
+  password VARCHAR(100) NOT NULL,\
+  registration_date DATETIME NOT NULL,\
+  last_login DATETIME NOT NULL\
+);\
+\
+CREATE TABLE UserProfiles (\
+  profile_id INT PRIMARY KEY, \
+  user_id INT NOT NULL,\
+  age INT,\
+  gender VARCHAR(20),\
+  height FLOAT,\
+  weight FLOAT, \
+  activity_level VARCHAR(50),\
+  allergies JSON,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id)\
+);\
+\
+CREATE TABLE HealthGoals (\
+  goal_id INT PRIMARY KEY,\
+  user_id INT NOT NULL,\
+  goal_type VARCHAR(50) NOT NULL,\
+  target_calories INT,\
+  target_protein FLOAT,\
+  target_carbs FLOAT,\
+  target_fat FLOAT,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id)\
+);\
+\
+CREATE TABLE DietaryRestrictions (\
+  restriction_id INT PRIMARY KEY,\
+  user_id INT NOT NULL, \
+  diet_type VARCHAR(50) NOT NULL,\
+  restrictions JSON,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id)\
+);\
+\
+CREATE TABLE Ingredients (\
+  ingredient_id INT PRIMARY KEY,\
+  name VARCHAR(100) NOT NULL,\
+  category VARCHAR(50),\
+  nutrition_data JSON,\
+  calories FLOAT,\
+  protein FLOAT,\
+  carbs FLOAT,\
+  fat FLOAT,\
+  source_api VARCHAR(50)\
+);\
+\
+CREATE TABLE Recipes (\
+  recipe_id INT PRIMARY KEY,\
+  name VARCHAR(100) NOT NULL,\
+  description TEXT,\
+  preparation_time INT,\
+  cooking_time INT,\
+  servings INT,\
+  difficulty_level VARCHAR(20),\
+  cuisine_type VARCHAR(50),\
+  ingredients JSON,\
+  nutrition_profile JSON,\
+  mood_tags JSON\
+);\
+\
+CREATE TABLE MealPlans (\
+  meal_plan_id INT PRIMARY KEY,\
+  user_id INT NOT NULL,\
+  date DATE NOT NULL,\
+  meal_type VARCHAR(20) NOT NULL,\
+  recipe_id INT NOT NULL,\
+  serving_size FLOAT,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id),\
+  FOREIGN KEY (recipe_id) REFERENCES Recipes(recipe_id)\
+);\
+\
+CREATE TABLE MoodEntries (\
+  mood_entry_id INT PRIMARY KEY,\
+  user_id INT NOT NULL,\
+  date DATE NOT NULL,\
+  mood_score INT,\
+  energy_level INT,\
+  stress_level INT,\
+  emotional_state VARCHAR(50),\
+  notes TEXT,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id)\
+);\
+\
+CREATE TABLE EmotionalGoals (\
+  emotional_goal_id INT PRIMARY KEY,\
+  user_id INT NOT NULL,\
+  goal_type VARCHAR(50) NOT NULL,\
+  target_mood_score INT,\
+  strategies JSON,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id)\
+);\
+\
+CREATE TABLE NutritionTracking (\
+  tracking_id INT PRIMARY KEY,\
+  user_id INT NOT NULL,\
+  date DATE NOT NULL,\
+  total_calories FLOAT,\
+  total_protein FLOAT,\
+  total_carbs FLOAT,\
+  total_fat FLOAT,\
+  meal_plans JSON,\
+  mood_correlation BOOLEAN,\
+  FOREIGN KEY (user_id) REFERENCES Users(user_id)\
+);\
+\
+CREATE TABLE NutritionCache (\
+  cache_id INT PRIMARY KEY,\
+  ingredient_name VARCHAR(100) NOT NULL,\
+  nutrition_data JSON,\
+  fetched_at DATETIME NOT NULL,\
+  expiry_date DATETIME NOT NULL\
+);}
