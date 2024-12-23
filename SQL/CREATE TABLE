@@ -1,0 +1,32 @@
+CREATE TABLE EmotionalGoals (
+    goal_id INT AUTO_INCREMENT PRIMARY KEY,
+    emotional_goal TEXT NOT NULL
+);
+
+CREATE TABLE Nutrients (
+    nutrient_id INT AUTO_INCREMENT PRIMARY KEY,
+    nutrient TEXT NOT NULL,
+    recommended_amount TEXT
+);
+
+CREATE TABLE GoalNutrients (
+    goal_id INT NOT NULL,
+    nutrient_id INT NOT NULL,
+    FOREIGN KEY (goal_id) REFERENCES EmotionalGoals(goal_id),
+    FOREIGN KEY (nutrient_id) REFERENCES Nutrients(nutrient_id),
+    PRIMARY KEY (goal_id, nutrient_id)
+);
+
+CREATE TABLE Ingredients (
+    ingredient_id INT AUTO_INCREMENT PRIMARY KEY,
+    ingredient TEXT NOT NULL
+);
+
+CREATE TABLE NutrientIngredients (
+    nutrient_id INT NOT NULL,
+    ingredient_id INT NOT NULL,
+    FOREIGN KEY (nutrient_id) REFERENCES Nutrients(nutrient_id),
+    FOREIGN KEY (ingredient_id) REFERENCES Ingredients(ingredient_id),
+    PRIMARY KEY (nutrient_id, ingredient_id)
+);
+
