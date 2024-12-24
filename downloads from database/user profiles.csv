@@ -1,0 +1,115 @@
+profile_id,user_id,age,gender,height,weight,activity_level
+51,84,57,Female,175,87,Minimal
+52,98,30,Female,173,64,Moderate
+53,67,18,Male,184,65,"Very Active"
+54,55,52,Female,198,54,Minimal
+55,75,34,Female,181,73,Moderate
+56,92,33,Other,168,95,Minimal
+57,97,19,Male,173,91,"Very Active"
+58,62,25,Female,171,83,Moderate
+59,95,48,Female,152,70,Moderate
+60,90,36,Other,173,80,Minimal
+61,64,51,Female,156,84,Minimal
+62,96,35,Other,158,56,Moderate
+63,61,54,Female,168,55,Minimal
+64,83,52,Female,198,58,Minimal
+65,70,23,Other,192,60,"Very Active"
+66,93,19,Female,167,78,"Very Active"
+67,74,55,Male,166,96,Minimal
+68,53,40,Male,166,71,Minimal
+69,77,36,Female,179,89,Moderate
+70,87,18,Other,181,90,"Very Active"
+71,81,21,Other,154,55,"Very Active"
+72,60,31,Male,192,51,Moderate
+73,80,55,Female,163,71,Minimal
+74,69,27,Female,163,56,"Very Active"
+75,52,41,Female,169,81,Minimal
+76,76,46,Female,193,92,Moderate
+77,72,46,Male,174,80,Moderate
+78,88,26,Female,169,69,"Very Active"
+79,58,20,Other,187,99,"Very Active"
+80,85,47,Other,185,83,Moderate
+81,79,40,Other,195,93,Minimal
+82,73,60,Male,185,83,Minimal
+83,89,44,Female,154,78,Minimal
+84,94,50,Male,200,93,Minimal
+85,56,35,Male,157,90,Minimal
+86,100,29,Male,166,64,"Very Active"
+87,78,38,Female,162,79,Minimal
+88,63,36,Male,193,50,Minimal
+89,68,31,Male,151,87,Moderate
+90,59,46,Other,191,54,Minimal
+91,82,42,Female,181,94,Moderate
+92,99,18,Other,164,93,"Very Active"
+93,57,39,Other,191,72,Moderate
+94,86,58,Other,169,62,Minimal
+95,54,25,Other,197,65,"Very Active"
+96,91,22,Other,167,78,"Very Active"
+97,65,26,Other,152,74,Moderate
+98,71,52,Female,173,89,Minimal
+99,51,47,Female,179,51,Minimal
+100,66,35,Female,171,84,Moderate
+101,102,24,Female,155,48,Moderate
+102,103,22,Female,155,50,Minimal
+103,104,24,Male,164,70,"Very Active"
+104,105,20,Male,160,60,"Very Active"
+105,106,25,Female,150,50,"Very Active"
+106,107,30,Female,120,30,Minimal
+107,108,50,Male,170,80,"Very Active"
+108,109,80,Male,156,80,Minimal
+109,110,28,Other,170,50,Minimal
+110,111,30,Female,170,60,Moderate
+111,112,50,Male,170,60,Minimal
+112,113,23,Female,144,43,Moderate
+113,114,40,Male,155,80,Moderate
+114,115,50,Male,170,80,"Very Active"
+115,116,40,Male,180,90,"Very Active"
+116,117,60,Male,170,80,"Very Active"
+117,118,45,Male,170,80,"Very Active"
+118,119,45,Male,170,60,Moderate
+119,120,12,Male,120,40,Moderate
+120,121,30,Female,180,50,"Very Active"
+121,122,12,Male,140,30,Minimal
+122,123,34,Female,160,50,"Very Active"
+123,124,23,Male,130,50,Minimal
+124,125,34,Male,120,40,Minimal
+125,126,12,Male,140,40,"Very Active"
+126,127,25,Male,245,50,Moderate
+127,128,23,Female,145,50,"Very Active"
+128,129,14,Male,170,60,"Very Active"
+129,130,30,Male,170,60,Moderate
+130,131,34,Male,145,50,Minimal
+131,134,50,Male,150,60,Moderate
+132,135,25,Male,145,50,Minimal
+133,137,26,Male,170,90,Minimal
+134,139,50,Male,145,60,Minimal
+135,140,45,Male,150,60,Minimal
+136,141,50,Male,160,60,"Very Active"
+137,142,30,Female,140,50,Minimal
+138,143,30,Female,150,70,Minimal
+139,144,45,Male,145,50,Moderate
+140,145,25,Female,156,60,"Very Active"
+141,146,52,Female,145,60,Minimal
+142,147,25,Female,160,60,Moderate
+143,148,35,Male,156,65,Minimal
+144,149,35,Female,150,60,Minimal
+145,150,35,Female,163,60,Moderate
+146,151,37,Male,166,60,Minimal
+147,152,56,Male,160,36,Minimal
+148,153,36,Female,178,75,"Very Active"
+149,154,59,Female,160,60,Moderate
+150,155,34,Female,155,60,Moderate
+151,156,28,Female,160,60,Moderate
+152,157,12,Male,125,30,Minimal
+153,158,23,Male,144,54,Minimal
+154,159,34,Male,145,60,Minimal
+155,160,56,Male,154,60,Minimal
+156,161,24,Male,155,35,Minimal
+157,162,24,Female,150,50,Minimal
+158,163,26,Female,125,50,Minimal
+159,164,90,Male,150,60,Minimal
+160,166,24,Female,160,50,"Very Active"
+161,167,24,Male,175,75,"Very Active"
+162,168,24,Male,150,60,Minimal
+163,169,24,Female,155,50,"Very Active"
+164,170,22,Male,170,70,"Very Active"
