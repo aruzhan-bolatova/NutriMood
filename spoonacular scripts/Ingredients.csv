@@ -1,0 +1,1449 @@
+ingredient_id,ingredient
+1,Spinach
+2,Almonds
+3,Dark Chocolate (70%+ cocoa)
+4,Salmon
+5,Chia Seeds
+6,Walnuts
+7,eggs
+8,vanilla hemp milk
+9,liquid egg substitute
+10,pineapple
+11,salt and pepper
+12,peanut butter
+13,lucuma powder
+14,goat cheese
+15,cinnamon
+16,baby spinach
+17,goji berries
+18,chives
+19,bananas
+20,pumpkin seeds
+21,orange pepper
+22,cranberry
+23,greek yogurt
+24,nonfat cottage cheese
+25,cream cheese
+26,old-fashioned oatmeal
+27,vanilla yogurt
+28,mango pieces
+29,milk
+30,butternut squash
+31,baby kale
+32,peaches
+33,swiss cheese
+34,agave
+35,mango
+36,cooking oats
+37,banana
+38,vanilla extract
+39,vanilla almond milk
+40,t cream
+41,sesame seeds
+42,cayenne pepper
+43,strawberries
+44,cheddar cheese
+45,cacao nibs
+46,almond milk
+47,cocoa
+48,matcha tea powder
+49,broccoli
+50,natural almond butter
+51,apple
+52,basil
+53,tomato
+54,crunchy peanut butter
+55,non-fat milk
+56,bell pepper
+57,kosher salt
+58,heavy whipping cream
+59,wedge lime
+60,ground pepper
+61,eggs whisked
+62,sesame oil
+63,spring onions
+64,fried garlic
+65,leek
+66,paprika
+67,tblsp water
+68,shrimp
+69,ricotta cheese
+70,thyme
+71,cremini mushrooms
+72,garlic
+73,salt & pepper
+74,black bean garlic sauce
+75,arënkha msc
+76,flat-leaf parsley
+77,pepperoni
+78,mozzarella cheese
+79,garlic clove
+80,duck eggs
+81,cream
+82,peas & carrots
+83,olive oil
+84,asiago cheese
+85,cherry tomatoes
+86,fontina cheese
+87,shallot
+88,mushrooms
+89,drizzle of olive oil
+90,butter
+91,egg whites
+92,cheese
+93,pepper
+94,asparagus
+95,canola oil
+96,nutmeg
+97,parmesan cheese
+98,salt
+99,parmesan
+100,tblsp cream
+101,pepper flakes
+102,powdered milk
+103,chilli flakes
+104,vanilla yoghurt
+105,cereal
+106,muesli
+107,non fat yogurt
+108,chili powder
+109,reduced fat cheddar cheese
+110,fruit
+111,grain bread
+112,mint
+113,flour
+114,vinegar
+115,yeast
+116,warm water
+117,honey
+118,scallions
+119,old fashioned oats
+120,spinach leaves
+121,onion
+122,turmeric
+123,cumin seeds
+124,raspberries
+125,rocket leaves
+126,blueberries
+127,plums
+128,maple syrup
+129,blackberries
+130,tofu
+131,chilli
+132,coconut oil
+133,sugar
+134,lemonade concentrate
+135,water
+136,cranberries
+137,onions
+138,coconut milk
+139,potatoes
+140,vanilla
+141,tumeric
+142,ground flax seed
+143,cherries
+144,home fries
+145,applesauce
+146,ground ginger
+147,garlic powder
+148,persimmon
+149,ice
+150,carrots
+151,rolled oats
+152,hemp milk
+153,seasonings
+154,cinnamon stick
+155,ginger root
+156,dates
+157,ground nutmeg
+158,oats
+159,hazelnuts
+160,mori-nu tofu
+161,cocoa powder
+162,ground cinnamon
+163,tofu and veggie scramble
+164,creamy peanut butter
+165,baking soda
+166,chia seed
+167,fresh-grated ginger
+168,blackstap molasses
+169,mangoes
+170,pomegranate juice
+171,quinoa
+172,sunflower seeds
+173,juice of orange
+174,brown rice flour
+175,over-ripe bananas
+176,agave nectar
+177,flax seeds
+178,lemon zest
+179,egg
+180,alaskan salmon filets
+181,dijon mustard
+182,bread crumbs
+183,scallion
+184,oyster sauce
+185,worcestershire sauce
+186,egg white
+187,caviar
+188,baby arugula
+189,reduced fat cream
+190,seafood seasoning
+191,bread
+192,pastry flour
+193,lemon juice
+194,fish cake
+195,multigrain bread
+196,hot sauce
+197,shrimp udon
+198,egg yolks
+199,broccoli florets
+200,cracked pepper
+201,parsley
+202,lemon
+203,knorr hollandaise sauce mix
+204,muffins
+205,soy sauce
+206,lump crab meat
+207,mayonnaise
+208,lemon thyme
+209,dill
+210,baking powder
+211,celery
+212,orange
+213,cardamom powder
+214,cucumber
+215,diestel breakfast sausage
+216,sea salt
+217,coconut bliss smoothie
+218,pumpkin puree
+219,orange juice
+220,rainbow chard
+221,persimmons
+222,soda
+223,green onion
+224,baby portabella mushrooms
+225,"pandan leaves click here cut to 2"" length"
+226,vanilla bean
+227,sweet potato
+228,coconut
+229,pear puree
+230,honey or
+231,oranges
+232,black beans
+233,beans
+234,rice
+235,seasoning cubes
+236,lentils
+237,olive oil to coat
+238,vegetables
+239,kale
+240,brown rice
+241,broccolini
+242,quinoa and brown rice mix
+243,celery seed
+244,ground sage
+245,ginger
+246,dale's seasoning
+247,rosemary leaves
+248,water *2
+249,liquid smoke
+250,fish fillets
+251,turnip
+252,habanero sauce and chile
+253,of water and 2 packets of chicken boullion
+254,ground cumin
+255,chicken breast
+256,pork should roast
+257,verde enchilada sauce
+258,beef broth
+259,chicken
+260,chicken stock and 2 cups of water
+261,dried thyme
+262,corn
+263,feta cheese
+264,lime zest
+265,parsnip
+266,additional toppings: avocado
+267,cilantro
+268,white wine
+269,dried cherries
+270,sundried tomatoes
+271,rosemary and thyme
+272,green onions
+273,chorizo links
+274,vegetable oil
+275,flat leaf parsley
+276,suya spice
+277,marjoram
+278,vegetable stock
+279,green beans
+280,balsamic vinegar
+281,garbanzo beans *1
+282,avocado
+283,juice of lemon
+284,tomatoes
+285,potato
+286,bay leaf
+287,navy
+288,sea-salt
+289,tabasco
+290,spring onion
+291,sun-dried tomatoes
+292,dinosaur kale
+293,eggplant
+294,lime juice
+295,cashews
+296,new potatoes
+297,dried chickpeas
+298,oregano
+299,optional: of hot sauce
+300,kidney beans
+301,scotch bonnet pepper
+302,vegetable broth
+303,carrot
+304,cumin
+305,chicken stock
+306,greens
+307,celery stalks
+308,rosemary
+309,thai basil
+310,red wine vinegar
+311,stew meat
+312,garlic cloves
+313,roasted cashews
+314,the following: parmesan rind)
+315,green onion tops
+316,cream of mushroom soup
+317,canned tomatoes
+318,bay leaves
+319,rice vinegar
+320,sriracha
+321,roma tomato
+322,buttermilk
+323,lamb
+324,flat iron steak
+325,salad leaves
+326,onion powder
+327,sriracha chile sauce
+328,spring mix
+329,freshly cracked pepper
+330,lamb loin chops
+331,zucchini
+332,salmon filets
+333,heavy cream
+334,very bread crumbs
+335,roasted peppers
+336,peas
+337,center cut bacon
+338,liquid chicken stock
+339,pork chops
+340,bacon
+341,herbs: rosemary
+342,lump crabmeat
+343,salt and pepper to season
+344,turkey breast
+345,juice of lime
+346,chili pepper flakes
+347,baby bella mushrooms
+348,bell peppered
+349,ground turkey
+350,chilli powder
+351,jalapeno
+352,mint leaves
+353,flank steak
+354,lemons
+355,cooking oil
+356,tomato sauce
+357,ground lamb
+358,avocados
+359,chives to garnish
+360,wine
+361,brie cheese
+362,herbes de provence
+363,onions and tomatoes
+364,beef strip steaks
+365,oregano leaves
+366,rosemary sprigs
+367,olives
+368,tabasco sauce
+369,kosher salt and pepper
+370,lightly parsley
+371,chile-garlic paste
+372,sharp cheddar
+373,mushroom
+374,lemon grass
+375,skirt steaks
+376,bone broth
+377,pinenuts
+378,extra virgin olive oil
+379,hot sauce such as sriracha
+380,ground beef
+381,cooking spoon groundnut oil
+382,lamb stock
+383,ghee
+384,dill weed
+385,button mushrooms
+386,beets
+387,to 5 garlic cloves
+388,salmon fillets
+389,swai fillets
+390,ground sumac
+391,tahini
+392,bulgur
+393,lemon juice from a lemon
+394,stock
+395,persian cucumber
+396,roasted chestnuts
+397,a cauliflower
+398,grapeseed oil
+399,garam masala
+400,cashews soaked overnight in water
+401,ground turmeric
+402,chili
+403,cinnamon powder
+404,mustard seeds
+405,cm ginger
+406,lacinato kale leaves
+407,tomato paste
+408,brown sugar
+409,cabbage
+410,clementine
+411,coriander
+412,sunflower oil
+413,cucumbers
+414,lemon juice or
+415,twice amount of water
+416,rainbow cherry tomatoes
+417,pita breads
+418,garlic gloves
+419,radishes
+420,cauliflower
+421,baby brussell sprouts
+422,herbs
+423,white wine vinegar
+424,couscous
+425,mung beans
+426,roma tomatoes
+427,curry leaves
+428,za'atar
+429,chillies
+430,sweet potatoes
+431,tomato puree
+432,flat leaf parsley leaves
+433,savoy cabbage
+434,pkt penne
+435,peppers
+436,garden cress
+437,kale leaves
+438,garlic roasted
+439,chicken broth
+440,chickpeas
+441,chipotle chiles
+442,hazel nuts
+443,extra tofu
+444,garbanzo beans
+445,raisins
+446,squeezed lemon juice
+447,apricots
+448,vegetable salt
+449,celery stalk
+450,tarragon
+451,tri-color pearl couscous
+452,apricots soaked in
+453,malt syrup
+454,garbanzo beans soaked
+455,overnight in water
+456,mollie stone's blood orange olive oil
+457,pasta shells
+458,mahogany rice
+459,tubular pasta
+460,lemonade
+461,dusting of garlic-pepper
+462,water-packed tuna
+463,fennel
+464,peach
+465,dsh pepper sauce
+466,parsley leaves
+467,salmon fillet
+468,tarragon leaves
+469,another slug of blood orange olive oil
+470,tuna
+471,sockeye salmon fillets
+472,fresno chile
+473,poached salmon
+474,tarragon stalks
+475,mussels
+476,thai basil leaves
+477,tbsp honey
+478,basil - greek basil if you have it
+479,the of 1 cos lettuce
+480,watercress
+481,the shrimp
+482,feta
+483,the dressing
+484,panko crumbs
+485,peanut oil
+486,kiwis
+487,avocados into cubes
+488,lemon and pepper seasoning
+489,arënkha msc caviar substitute
+490,lime
+491,chilies
+492,baby beets
+493,clove garlic
+494,dungeness crab- cooked&
+495,hoisin sauce
+496,apple cider vinegar
+497,the salad
+498,stem lemongrass
+499,barbecue seasoning
+500,fennel seeds
+501,tbsp olive oil
+502,panko
+503,lemon wedges
+504,pacific halibut filets
+505,basil leaves
+506,barbecue sauce
+507,herbs de provence
+508,halibut fillets
+509,hand full of cilantro
+510,collard greens
+511,leg of lamb
+512,coarse salt
+513,salmon steaks
+514,roquette lettuce
+515,blacks olives
+516,hass avocado
+517,baby portobello mushrooms
+518,½ pepper
+519,new mexico chili powder
+520,½ oregano
+521,seafood stock/ fish stock
+522,½ cumin
+523,pickled cucumber
+524,¼ lime juice
+525,avocado oil
+526,¼ olive oil
+527,anaheim peppers
+528,seasoning
+529,shrimps
+530,tilapia
+531,club soda
+532,grape tomatoes
+533,½ salt
+534,jicama
+535,pot roast
+536,sage
+537,pork tenderloin
+538,fennel bulb and leaves
+539,baby/lolo lettuce
+540,blood orange cilantro vinaigrette
+541,pork loin roast
+542,shallots
+543,coriander leaves
+544,grape seed
+545,spaghetti
+546,coarsely-chopped rosemary leaves
+547,unrefined sea salt
+548,curry paste
+549,cayenne
+550,corn flour
+551,sun tomatoes
+552,satsuma orange
+553,herb seasoning
+554,scallops
+555,red wine
+556,coriander seeds
+557,prawns
+558,wheat
+559,oil
+560,balsamic vinegrette salad dressing
+561,fish sauce
+562,unpasteurized shiro miso
+563,artichoke
+564,rice bran oil
+565,rum
+566,eggnog
+567,espresso
+568,boston lettuce
+569,brussels sprouts
+570,swiss chard leaves
+571,orange cauliflower
+572,additional scallion tops
+573,you can use regular basil
+574,curly kale
+575,evoo
+576,spring roll wrappers
+577,chili pepper
+578,trader joe's spicy peanut vinaigrette
+579,hanger steak
+580,stinging nettles
+581,sharp cheddar cheese
+582,chicken breasts
+583,pine nuts
+584,blended onions
+585,blended tomato
+586,curry powder
+587,sardines
+588,maldon sea salt
+589,louisiana hot sauce
+590,paul prudhommes poultry seasoning
+591,habanero pepper
+592,ranch dressing
+593,romano cheese
+594,porcini mushrooms
+595,pistachio nuts
+596,swiss chard
+597,ground mustard powder
+598,farro
+599,black-eyed peas
+600,sherry vinegar
+601,globe
+602,ground coriander
+603,asafetida
+604,a squirt sriracha
+605,braggs liquid aminos
+606,block lite tofu
+607,ginger powder
+608,punnet baby tomatoes
+609,basil-infused olive oil
+610,amaranth
+611,pumpkin
+612,herbal salt
+613,cumin seed powder
+614,wholewheat pita breads
+615,bowl rice
+616,crabmeat
+617,fermented baby shrimps/ cincalok
+618,chilly flakes
+619,garlic bulb
+620,radish
+621,napa cabbage
+622,chilly paste / korean gochujang paste
+623,brine solution
+624,basil tagliatelle
+625,horseradish
+626,fennel bulb
+627,red pepper flakes
+628,bok choy
+629,cayenne powder
+630,indian curry powder
+631,chili flakes
+632,bell peppers
+633,ham bone
+634,coarse sea salt
+635,aubergine
+636,condensed milk
+637,veggie stock
+638,salsa
+639,marshmallows
+640,romaine lettuce
+641,rotel tomatoes and chiles
+642,lime wedges
+643,courgette
+644,lightly sauteed onions
+645,rice flour
+646,ground pork
+647,chicken -the one here is 4.5lbs.
+648,zucchini cut
+649,endive
+650,orange bell pepper
+651,pickled jalapeño pepper
+652,coriander seed
+653,candied pecans
+654,gochugaru
+655,"lite"" cream"
+656,cheddar
+657,napa cabbages
+658,ramen
+659,package corn
+660,"onion cut "" pieces"
+661,half and half
+662,chili paste
+663,kohlrabi bulbs
+664,chickpea flour
+665,mustard powder
+666,baby arugula leaves
+667,asafoetida
+668,fresh chives
+669,cracked wheat
+670,wheat berries
+671,caraway seeds
+672,brown lentils
+673,red onion
+674,acorn squash
+675,fresh thyme
+676,allspice
+677,nasturtium flowers and leaves
+678,sweetened coconut
+679,buffalo wing sauce
+680,fresh parsley
+681,chana dal
+682,several grinds of pepper
+683,dried green lentils
+684,fresh cilantro
+685,nutritional yeast
+686,baby carrots
+687,jalapeño - grilled&
+688,raspberry vinegar
+689,healthy handful of parsley
+690,walnut oil
+691,barley
+692,tilapia fish fillets
+693,tortilla chips
+694,prosciutto
+695,figs
+696,long chillies
+697,passata
+698,caster sugar
+699,chocolate )
+700,medjool dates
+701,nut/hemp/coconut milk
+702,.5 oz. chocolate
+703,smooth peanut butter
+704,pepper )
+705,salt )
+706,dairy free semi-sweet chocolate chips
+707,orange zest
+708,liquor
+709,chocolate block
+710,tbsp corn flour / corn starch
+711,powdered sugar
+712,dairy free chocolate
+713,ricotta
+714,tapioca/arrowroot flour
+715,strawberries )
+716,chocolate
+717,almond flour
+718,pears
+719,pistachios
+720,grand marnier
+721,rich cream
+722,himalayan sea salt
+723,celery sticks
+724,chocolate brownies
+725,coconut flour
+726,granulated sugar
+727,vanilla bean paste/extract
+728,candy making chocolate
+729,vegan marshmallows
+730,oat flour
+731,soy milk
+732,lbs shoulder of beef
+733,quick-cooking oats
+734,walnuts 
+735,chocolate liqueur
+736,cups / 16 fl. oz. guinness
+737,wholes almonds
+738,chocolate bar
+739,all purpose flour
+740,butter 
+741,yogurt
+742,vanilla paste
+743,confectioners sugar
+744,sugar 
+745,eggs 
+746,mascarpone cheese
+747,optional: chocolate
+748,flour 
+749,nutella
+750,coffee
+751,bicarbonate of soda
+752,bakers chocolate
+753,dulce de leche
+754,almond butter
+755,gel icing
+756,vanilla essence
+757,vegan butter
+758,whipping cream
+759,oreo cookies
+760,artificial sweetener
+761,rolo chocolate candy
+762,cornstarch
+763,orange gel icing
+764,vegan chocolate
+765,vegan vanilla cookie crumbs
+766,cane sugar
+767,earth balance soy free spread
+768,flour blend
+769,espresso powder
+770,yoghurt
+771,monterey jack cheese
+772,ginger paste
+773,the yogurt
+774,a package of spinach
+775,neufchatel cheese
+776,oil from the sun tomatoes
+777,cardamom pods
+778,garlic glove
+779,greek yoghurt
+780,artichoke hearts
+781,nonfat greek yogurt
+782,vanilla silk almond milk
+783,lowfat yogurt
+784,butterflies pork butt
+785,chobani yogurt
+786,spinach paste
+787,soozi)
+788,tbsp japanese mirin
+789,croutons
+790,tbsp chives
+791,salmon filets
+792,peppercorns
+793,honey citrus chicken
+794,lemongrass salmon
+795,oz. corn
+796,chili sauce
+797,oz. carrot
+798,an avocado
+799,pomegranate chicken
+800,plum ginger grain-crusted fish
+801,tbsp mayonnaise
+802,lettuce leaf
+803,limes
+804,roasted pepper chicken
+805,tsp wasabi paste
+806,pineapple pepper beef
+807,oz. beansprouts
+808,cut julienne
+809,greek
+810,dill or
+811,add pepper
+812,slivered almonds
+813,caesar dressing
+814,tbsp butter
+815,filets of salmon
+816,lb asparagus spears
+817,romaine
+818,bigoli pasta
+819,sea salt and pepper
+820,thyme to garnish
+821,finely-chopped pineapple
+822,finely-chopped onion
+823,alaskan salmon fillets
+824,mange tout
+825,finely-diced mango
+826,skin-on salmon fillet
+827,cilantro leaves
+828,arugula
+829,bulb of onion
+830,corn starch
+831,pasta
+832,mackerel
+833,plum tomatoes
+834,to)
+835,a semi-smoked sausage
+836,scotch bonnet peppers
+837,cod fillets
+838,cod
+839,lemon pepper
+840,pork liver
+841,apple cider
+842,chorizo
+843,calvados brandy
+844,thyme leaves
+845,breadcrumbs
+846,chicken broth from
+847,cornbread
+848,monterrey jack and cheddar cheese
+849,sausage casings
+850,deli ham
+851,tomato purée
+852,tied pork shoulder
+853,pork meat
+854,chorizo into cubes
+855,goat's cheese
+856,granny smith apple
+857,lemon thyme leaves
+858,chicken bone broth
+859,kefir
+860,green cabbage
+861,chipotle peppers in adobo sauce
+862,persian cucumbers
+863,leek and pale parts
+864,poblano pepper
+865,grapes
+866,balsamic vinaigrette
+867,cider vinegar
+868,coconut sugar
+869,cannellini beans
+870,ears of corn
+871,elbow macaroni
+872,size carrot
+873,beef bouillon cubes
+874,wheat flour
+875,baby corns
+876,butter beans
+877,kernel corn
+878,eyed peas
+879,stewed tomatoes
+880,beef short ribs
+881,celery salt
+882,boneless/skinless chicken breasts
+883,mustard
+884,green onions white part
+885,chilis
+886,corned beef brisket
+887,kernal corn
+888,of kale
+889,on carrots
+890,jalapeno pepper
+891,chili beans
+892,grana padano cheese
+893,water 4 qts
+894,broccoli spears
+895,mozzarella
+896,broccoli flowerets
+897,san marzano tomatoes
+898,vegetable burger crumbles
+899,sesame seeds 
+900,to 5 chicken broth
+901,roasted cherry tomatoes
+902,crusty bread
+903,apple vinegar
+904,pepper and salt
+905,peeled/ tomatoes
+906,chianti red wine
+907,salt/pepper
+908,pack maggi so herbs
+909,hungarian paprika
+910,crimini mushrooms
+911,mellow miso
+912,russet potato
+913,juice from a lemon
+914,pasta sauce
+915,lite silken tofu
+916,ready-cut tomatoes
+917,colorful tartar on a bed of vegetables. also an touch
+918,burrata
+919,squash
+920,swiss chesee
+921,a couple of pepper flakes
+922,cauliflower florets
+923,spaghetti squash
+924,to 2 tarragon
+925,rigatoni
+926,crinkled carrots
+927,to 3 broccoli
+928,roasted almonds
+929,yukon gold potatoes
+930,head of broccoli
+931,ketchup
+932,anchovies
+933,flat parsley leaves
+934,sausages
+935,cavatelli
+936,fresh basil leaves
+937,rotini pasta
+938,pepper flakes-taste as you go to adjust flavors
+939,fresh mint leaves
+940,capers
+941,salt& pepper
+942,sweet potato vermicelli noodles
+943,oz can san marzano tomatoes
+944,half alarge onion
+945,penne pasta
+946,basil& oregano
+947,sage leaves
+948,thai kitchen rice noodles
+949,jalapeño pepper
+950,block of tofu
+951,broccoli rabe
+952,cashew nuts
+953,nuts
+954,lasagna
+955,angel hair pasta
+956,baby portobella mushrooms
+957,farfalle
+958,garlic salt
+959,shitaki mushrooms
+960,cube pecorino cheese
+961,ginger powder-taste as you go to adjust flavors
+962,banana leaves
+963,yellowfin tuna fish
+964,shiitake mushrooms
+965,salt and sugar
+966,sherry
+967,galangal powder
+968,freshly picked mint
+969,fenugreek leaves)
+970,small-diced onion
+971,sized onions very
+972,flour)
+973,chaat masala
+974,remove all extra fat
+975,cottage cheese) - made from of milk
+976,chaat masala powder
+977,turmeric powder- a
+978,chicken pieces
+979,mirin
+980,a little olive oil to brush the potatoes
+981,bird's eye chilli pepper
+982,lemon rind
+983,tempeh
+984,punjabi garam masala
+985,agave syrup
+986,size - potatoes
+987,food colouring
+988,tiger shrimp
+989,saffron threads
+990,orange juice concentrate
+991,garlic paste
+992,lamb chops from the
+993,excess water squeezed out
+994,red wine pepper flakes
+995,color
+996,in piece of ginger
+997,penne
+998,lemongrass stalks
+999,tamarind paste
+1000,ground roasted cumin seeds
+1001,coriander chutney
+1002,baked kabocha squash
+1003,ginger chilli paste
+1004,soba noodles
+1005,seasoning cube
+1006,garam masala powder
+1007,asparagus spears
+1008,pepper powder
+1009,sesame seeds to garnish
+1010,lower-sodium soy sauce
+1011,kg of sugar
+1012,bailey's irish cream
+1013,dutch-process cocoa powder
+1014,skim milk
+1015,rum extract
+1016,ladyfingers
+1017,gevalia coffee irish cream flavor
+1018,coffee powder
+1019,short
+1020,coffee/espresso- and poured into a shallow bowl
+1021,szechuan peppercorns
+1022,lady-finger cookies
+1023,ground coffee beans
+1024,nestlé chocolate
+1025,morsels
+1026,confectioner's sugar
+1027,kisses by hersheys dipped in mascarpone
+1028,jif natural creamy peanut butter
+1029,dark-brown sugar
+1030,unbleached flour
+1031,strong-brewed coffee
+1032,semisweet chocolate chips
+1033,freshly coffee
+1034,coco powder
+1035,cream of tartar
+1036,honey-roasted peanuts
+1037,p of salt
+1038,peanuts
+1039,corn syrup
+1040,pareve milk
+1041,amaretto
+1042,semi-sweet chocolate chips
+1043,chocolate flavor
+1044,brown eggs
+1045,bittersweet chocolate
+1046,granul sugar
+1047,baking cocoa
+1048,chocolate protein powder
+1049,vanilla sugar
+1050,currants
+1051,milk chocolate
+1052,onyx cocoa powder
+1053,dutch cocoa powder
+1054,warm coffee
+1055,fyi: the ganache needs hours to cool
+1056,brandy
+1057,strong freshly coffee
+1058,strong coffee
+1059,confectioners' sugar
+1060,semi chocolate chips
+1061,whipped cream
+1062,jalapeño
+1063,ancho chile powder
+1064,chocolate chips
+1065,favorite creamy peanut butter
+1066,milk chocolate bar
+1067,spelt
+1068,coffee-infus mascarpone
+1069,venison stew meat
+1070,bell pepper flakes
+1071,vegeta seasoning
+1072,snow peas
+1073,seasoned bread crumbs
+1074,sauce: we used roas ed tomato
+1075,tamari sauce
+1076,curry
+1077,shitake mushrooms
+1078,mung bean sprouts
+1079,unrefined sunflower oil
+1080,oz feta into dice
+1081,brown basmati rice
+1082,flour and 3 tbsp
+1083,enoki mushrooms
+1084,poblano peppers- roasted
+1085,beef bouillon
+1086,baking potatoes
+1087,mushroom caps
+1088,lamb stew meat
+1089,soy granules
+1090,pecans
+1091,alouette spinach & artichoke spread
+1092,fennel powder
+1093,to 6 of water
+1094,baby carrots 4 stalks celery 1 can mushrooms 1 piece pepper 1 cup flour and 3 tbsp 2 tablespoons bee
+1095,skin potatoes
+1096,daikon radish
+1097,harissa
+1098,gf sherry vinegar
+1099,vegetarian option: one fried egg
+1100,coconut oil plus extra 2-3 tablespoons
+1101,chives plus 1 tablespoon
+1102,leaf lettuce
+1103,alfalfa sprouts
+1104,tender cut beef
+1105,kimchi
+1106,gochujang
+1107,flour tortillas
+1108,cassava
+1109,reserved pasta water
+1110,sardine fillets
+1111,fettuccine
+1112,bell pepper/capsicum
+1113,beef liver
+1114,size bell pepper
+1115,size tomatoes
+1116,big red/white onion
+1117,chicken livers
+1118,size onions
+1119,pork livers
+1120,cognac
+1121,pork cubes
+1122,p of pepper
+1123,pork
+1124,sel gris and cornichon
+1125,japanese cucumber
+1126,edamame
+1127,sweetener
+1128,agar-agar
+1129,sriracha chili sauce
+1130,sake
+1131,reduced sodium soy sauce
+1132,sashimi grade tuna
+1133,lava seaweed
+1134,agar flakes
+1135,monkfish fillet
+1136,cake flour
+1137,coconut extract
+1138,block extra tofu
+1139,pink food colour- optional
+1140,agar-agar powder
+1141,sushi rice
+1142,soba
+1143,nori
+1144,sushi grade tuna
+1145,agar agar flakes
+1146,miso paste
+1147,clear honey
+1148,seaweed
+1149,poultry seasoning
+1150,sushi nori
+1151,vegan sugar
+1152,pickled ginger
+1153,salmon caviar
+1154,sprinkle of nori goma furikake
+1155,kombu
+1156,"lite"" coconut milk"
+1157,of nori
+1158,agar agar powder
+1159,real salt sea salt
+1160,scallion into pieces
+1161,low salt chicken stock
+1162,japanese sticky rice
+1163,baby carrot
+1164,salmon filet/loin
+1165,another japanese noodle
+1166,tea powder
+1167,rose petals
+1168,bean sprouts
+1169,miso
+1170,octopus
+1171,calrose rice
+1172,around 10 sized eating apples
+1173,g-180 shortening
+1174,crust
+1175,asian rice noodles
+1176,wasabi
+1177,hardboiled eggs
+1178,scallions aka green onions
+1179,rice milk
+1180,turkey breakfast sausage link
+1181,fish stock
+1182,each
+1183,neoguri ramen
+1184,reduced fat mayonnaise
+1185,soya sauce
+1186,cooking
+1187,rosewater
+1188,clam liquid and water
+1189,margarine
+1190,eggplants
+1191,salt & ground pepper
+1192,roasted garlic
+1193,beef stock
+1194,chicken sausage
+1195,chicken thighs
+1196,t seasoned salt
+1197,marinara sauce
+1198,thyme and rosemary
+1199,vegetable cooking oil
+1200,roughly ground pepper
+1201,montery jack & cheddar cheese mix
+1202,non-dairy alternative
+1203,tahiti paste
+1204,parsnips
+1205,pepper pepper
+1206,jalapenos
+1207,pie crust
+1208,jules flour
+1209,rutabaga
+1210,honey optional
+1211,guinness beer
+1212,smalls sweet potatoes
+1213,turnips
+1214,ground venison
+1215,walnut
+1216,chipotle chiles adobo
+1217,teff flour
+1218,spicy sausage
+1219,tapioca flour
+1220,pumpkin pulp
+1221,egg yolk
+1222,pumpkin pie spice
+1223,aluminum free baking soda
+1224,tropical food's
+1225,splash of milk
+1226,pumpkin cubes
+1227,coconut yogurt
+1228,rinse the beans
+1229,venison meatloaf
+1230,chili peppers
+1231,several of tabasco
+1232,yam
+1233,aluminum free baking powder
+1234,cottage cheese
+1235,buffalo swee potato/pumpkin hash
+1236,hickory bacon
+1237,date sugar
+1238,rubbed sage
+1239,chunky cut carrot
+1240,ginko nuts
+1241,vanilla protein powder
+1242,roasted pumpkin puree
+1243,edible pumpkin
+1244,flour to make a dough
+1245,serrano chiles
+1246,blackberry bbq sauce
+1247,cottage cheese/paneer
+1248,garlic on its skin
+1249,dough
+1250,ap flour
+1251,sriracha sauce
+1252,pandan leaves
+1253,pumpkin beer
+1254,sauce
+1255,turmeric powder
+1256,lasagna noodles
+1257,pumpkin spice
+1258,style bread crumbs
+1259,ground flax meal
+1260,potato starch
+1261,blackberry preserves
+1262,coriander powder
+1263,vegan chocolate chips
+1264,ground cloves
+1265,cumin powder
+1266,hemp seeds
+1267,risotto rice
+1268,bok choi
+1269,pineapple juice
+1270,pecan nuts
+1271,baguette
+1272,sugar snap peas
+1273,soybean edamame
+1274,creamy goat cheese
+1275,oysters
+1276,fish
+1277,crabs
+1278,old bay seasoning
+1279,half-and-half
+1280,pch salt
+1281,grits
+1282,chili peppers in adobo sauce
+1283,okra
+1284,pch cayenne pepper
+1285,salt pork
+1286,wonton wrappers
+1287,all the tabasco sauce you handle
+1288,creole seasoning
+1289,baby spinach leaves
+1290,crab meat
+1291,habanero chile
+1292,roasted bell pepper
+1293,crackers
+1294,andouille sausage
+1295,filé powder
+1296,andouille
+1297,dozens oysters
+1298,pimiento peppers
+1299,louisiana rice
+1300,saltine crackers
+1301,watercress stems
+1302,clam juice
+1303,king crab
+1304,very butter
+1305,creole seasoning blend
+1306,few pieces of crab
+1307,lump crab claw meat
+1308,corn kernels
+1309,freshly dungeness crabs
+1310,clams
+1311,surimi crab sticks
+1312,rice wine vinegar
+1313,biryani paste- recipe below
+1314,icy water
+1315,freshly parsley
+1316,dijon grain mustard
+1317,cashew
+1318,heart celery
+1319,bragg's liquid aminos
+1320,saffron
+1321,leaves - i used a mix of romaine lettuce & spinach
+1322,dijon mustars
+1323,coarse pepper
+1324,lg beets
+1325,grainy dijon mustard
+1326,cardamom
+1327,sea salt& pepper
+1328,olive oil/butter/ghee
+1329,arrowroot powder
+1330,saffron strands
+1331,flax seed oil
+1332,chile pepper
+1333,kalamata olives
+1334,poppy seeds
+1335,strawberry jam
+1336,paneer
+1337,dijon honey mustard
+1338,pomegranate seeds
+1339,s
+1340,chicken tenderloins
+1341,veganaise
+1342,hefty biryani paste
+1343,portabello mushrooms
+1344,acorn squashes
+1345,weight lettuce
+1346,cashew nuts- a bit
+1347,romaine lettuce hearts
+1348,coconut flakes
+1349,roasted cashew nuts
+1350,basmati rice soaked in water
+1351,baby potatoes
+1352,ap flour/maida
+1353,egg noodles
+1354,craisins
+1355,roasted poppy seeds
+1356,beefsteak tomato
+1357,pam original flavor
+1358,green lentils
+1359,celery stock
+1360,tsp ground coriander
+1361,chipotles in adobo
+1362,refried black beans
+1363,bittersweet chocolate chips
+1364,chiles
+1365,chipotle chiles in adobo sauce
+1366,chile
+1367,ancho chili powder
+1368,mexican oregano
+1369,salsa verde
+1370,chili seasoning
+1371,rotisserie chicken breast
+1372,tomato juice
+1373,tomatillos
+1374,enchilada sauce
+1375,berries
+1376,whisky
+1377,roasted mushrooms
+1378,tbsp. of water
+1379,cornmeal
+1380,very chard leaves
+1381,tbsp. of olive oil
+1382,arrowroot starch
+1383,golden raspberries
+1384,grounded flax seeds
+1385,lentils this way
+1386,grind cornmeal
+1387,nutmeg and allspice
+1388,non-fat greek yogurt
+1389,fleur de sel and ground pepper
+1390,creamed wildflower honey
+1391,lowfat greek yogurt
+1392,lots and lots and lots and lots of pepper
+1393,active yeast
+1394,xanthan gum
+1395,oatmeal
+1396,¾ pearl barley
+1397,pink peppercorns
+1398,barley flour
+1399,big of ginger
+1400,golden raisins
+1401,delicata squash
+1402,chuck roast
+1403,pearl barley
+1404,soymilk
+1405,tsp. c
+1406,to garlic
+1407,mushrooms can be added
+1408,pita pockets
+1409,ground allspice
+1410,tomato soup
+1411,peas julienne cut
+1412,flesh of avocado
+1413,fried bacon
+1414,long beans
+1415,asian chili garlic paste
+1416,shitake mushroom
+1417,chorizo sausage
+1418,goat meat
+1419,asian soba wheat
+1420,plus 1 tablespoon oil
+1421,dressed shrimp
+1422,prawn
+1423,chicken stock/broth
+1424,chicken breast thinly marinate
+1425,sherry 1 tbsp. honey
+1426,elbow pasta
+1427,carrot julienne cut
+1428,star anise
+1429,to 3 chilli padis
+1430,cinnamon sticks
+1431,ribeye steaks
+1432,water spinach
+1433,ham
+1434,bamboo skewers
+1435,baby bok choy
+1436,big shitake mushrooms
+1437,belacan/dried shrimp paste
+1438,& bell pepper
+1439,crème fraiche
+1440,rice vermicelli soaked in water
+1441,roasted coarse peanuts
+1442,cream sauce
+1443,cooking spoon of vegetable oil
+1444,thai palm sugar
+1445,coarsely ground pepper
+1446,to
+1447,pork but shoulder thinly marinate
+1448,parmesan and m zarella cheese
